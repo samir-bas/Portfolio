@@ -1,0 +1,37 @@
+[
+    {
+     "id": "1",
+     "name": "Terre de Geek",
+     "description": "Les meilleurs produits High-Tech à votre disposition avec les meilleurs prix",
+     "picture": "Img/terredegeek.jpg",
+     "url": "https://samir-bas.github.io/site-2/"
+     },
+    {
+     "id": "2",
+     "name": "Opérations Bancaires",
+     "description": "Une application de gestion de comptes bancaires",
+     "picture": "Img/operationsbancaires.jpg",
+     "url": "https://samir-bas.github.io/site-3/"
+    },
+    {
+     "id": "3",
+     "name": "Jeu du Pendu",
+     "description": "Devinez le mot secret en entrant les lettres une par une au clavier",
+     "picture": "Img/jeupendu.jpg",
+     "url": "https://samir-bas.github.io/Jeu_Pendu/"
+    },
+    {
+     "id": "4",
+     "name": "Agence Immobilière",
+     "description": "Leader de la construction et de la rénovation de maisons individuelles en Normandie",
+     "picture": "Img/norimmo.jpg",
+     "url": "https://trobillard.github.io/Norimmo/"
+    },
+    {
+     "id": "5",
+     "name": "Jeu de Mémoire",
+     "description": "Un jeu des paires pour faire travailler la mémoire et la révigorer",
+     "picture": "Img/jeumemoire.jpg",
+     "url": "https://samir-bas.github.io/carte_memory_4/"
+    }
+   ]
