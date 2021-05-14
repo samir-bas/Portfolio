@@ -20,9 +20,10 @@ function App() {
         <Header />
         <Switch>
           <Route path="/Home" component={Author} />
-          <Route path="/Protfolio" component={Cards} />
+          <Route path="/Portfolio" component={Cards} />
           <Route path="/Contact" component={Contact} />
-        </Switch>
+          <Route path="" component={Author} />
+       </Switch>
       </Router>
       <Footer />
     </div>
